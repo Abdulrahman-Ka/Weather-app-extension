@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Weather App Extenison",
+  "version": "1.0.0",
+  "action": { "default_popup": "index.html" },
+  "icons": {
+    "src": "./public/weather.svg",
+    "sizes": "192x192"
+  }
+}
